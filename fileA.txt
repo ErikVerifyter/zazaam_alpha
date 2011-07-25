@@ -1,4 +1,4 @@
-init 
+init data;
 
 if A = 2 then c = 1
 
