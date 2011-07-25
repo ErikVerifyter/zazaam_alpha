@@ -1,6 +1,0 @@
-init data;
-
-if A = 2 then c = 1
-
-if A = 1 then d = 3
-
